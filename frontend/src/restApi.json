@@ -24,7 +24,7 @@
             {
                 "id": 1,
                 "image": "./dinner1.jpeg",
-                "title": "ROASTED LAMB RUMP",
+                "title": "ROASTED TURKEY",
                 "category": "Dinner"
             },
             {
@@ -42,13 +42,13 @@
             {
                 "id": 4,
                 "image": "./dinner3.png",
-                "title": "STUFFED STRAWBERRY",
+                "title": "STUFFED STRAWBERRY CHEESECAKE",
                 "category": "Dinner"
             },
             {
                 "id": 5,
                 "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
+                "title": "CHEESE CHICKEN BURGER MEAL",
                 "category": "Lunch"
             },
             {
@@ -132,7 +132,7 @@
             },
             {
                 "id": 3,
-                "number": "08",
+                "number": "06",
                 "title": "Years Of Experience"
             },
             {
